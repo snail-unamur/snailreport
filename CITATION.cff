@@ -1,0 +1,82 @@
+cff-version: 1.2.0
+title: >-
+  SNAIL Report 2025 : Baromètre des pratiques de
+  développement logiciel en Fédération Wallonie-Bruxelles
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - family-names: Boulanger
+    given-names: Aline
+    affiliation: University of Namur
+  - family-names: Bouncer
+    given-names: Yassine
+    affiliation: University of Namur
+  - family-names: Delpierre Stasser
+    given-names: Louise
+    affiliation: University of Namur
+  - family-names: Devroey
+    given-names: Xavier
+    affiliation: 'NADI, University of Namur'
+    orcid: 'https://orcid.org/0000-0002-0831-7606'
+    email: xavier.devroey@unamur.be
+  - family-names: Lesceux
+    given-names: Antonin
+    affiliation: University of Namur
+  - family-names: Maquoi
+    given-names: Jérôme
+    affiliation: 'NADI, University of Namur'
+    orcid: 'https://orcid.org/0000-0001-9752-0085'
+    email: jerome.maquoi@unamur.be
+  - family-names: Schweitzer
+    given-names: Kevin
+    affiliation: University of Namur
+  - family-names: Vanderose
+    given-names: Benoît
+    affiliation: 'NADI, University of Namur'
+    orcid: 'https://orcid.org/0009-0006-3576-0757'
+    email: benoit.vanderose@unamur.be
+  - family-names: Vervloessem
+    given-names: Lucas
+    affiliation: University of Namur
+identifiers:
+  - type: url
+    value: >-
+      https://snail.info.unamur.be/publication/snailreport-2025/
+url: 'https://snail-unamur.github.io/snailreport/'
+abstract: >-
+  Le développement logiciel est un domaine en constante
+  évolution, porté par des innovations technologiques et des
+  pratiques professionnelles qui évoluent rapidement. Dans
+  ce contexte, comprendre l’état actuel des pratiques de
+  qualité et de test logiciel est essentiel, tant pour les
+  entreprises que pour les institutions académiques. C’est
+  dans cette optique que nous avons mené une enquête auprès
+  des acteurs du développement logiciel en Fédération
+  Wallonie-Bruxelles. Cette initiative est née d’une
+  collaboration entre des membres de la SNAIL team et les
+  étudiants du master en software engineering, dans le cadre
+  du cours « Test et Qualité logicielle ». L’objectif était
+  double : dresser un état des lieux des pratiques en
+  vigueur et renforcer le lien entre la formation académique
+  et les réalités industrielles. Pour ce faire, nous avons
+  conçu un questionnaire inspiré des grands rapports
+  internationaux (JetBrains Developer Ecosystem, State of
+  DevOps, GitHub Octoverse) et adapté aux spécificités
+  locales. L’enquête a été diffusée auprès d’organisations
+  de tailles et de secteurs variés, afin de recueillir des
+  données représentatives. Les résultats présentés dans ce
+  rapport offrent un panorama des pratiques actuelles :
+  adoption des méthodologies Agile, organisation des
+  équipes, outils utilisés, stratégies de test, intégration
+  de l’IA, automatisation des processus, et perception
+  globale de la qualité logicielle. Au-delà des chiffres, ce
+  rapport met en lumière les forces, les défis et les
+  opportunités qui se dessinent pour les entreprises et les
+  professionnels du développement logiciel en Fédération
+  Wallonie-Bruxelles. Nous espérons que ces enseignements
+  contribueront à nourrir la réflexion, à améliorer les
+  pratiques et à renforcer la collaboration entre les mondes
+  académique et industriel.
+license: CC-BY-SA-4.0
