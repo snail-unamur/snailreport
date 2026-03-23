@@ -1,5 +1,7 @@
 # Rapport SNAIL 2025 - Baromètre des pratiques de développement logiciel en Fédération Wallonie-Bruxelles
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19185367.svg)](https://doi.org/10.5281/zenodo.19185367)
+
 Ce dépôt contient le rapport SNAIL 2025 sur les pratiques de développement logiciel en Fédération Wallonie-Bruxelles. Le rapport complet est disponible [ici](2025/SNAIL-report-2025.pdf). Une synthèse exécutive est disponible en ligne à l'adresse [https://snail-unamur.github.io/snailreport/](https://snail-unamur.github.io/snailreport/).
 
 ## Citation
